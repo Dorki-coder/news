@@ -1,0 +1,40 @@
+body {
+  padding: 50px;
+  margin: auto;
+  gap: 30px;
+  width: 1060px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.container {
+  padding-top: 100px;
+  width: 1060px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 40px 0px;
+}
+
+.news-block {
+  border: 1px solid #dedede;
+}
+
+.title {
+  text-align: center;
+  font-size: 28px;
+}
+
+.description {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+input {
+  width: 200px;
+}
+
+button {
+  width: 200px;
+}
